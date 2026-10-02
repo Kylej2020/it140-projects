@@ -7,25 +7,24 @@
 
 **Theme:**
 
-TODO: Name and briefly describe your game's theme.
+The Haunted Yacht is a horror and mystery adventure game set on an abandoned luxury yacht haunted by an evil ghost. 
 
 **Storyline:**
 
-TODO: In one short paragraph, explain the setting, the player's goal, the items
-the player must gather, and the threat created by the villain.
+The player wakes up alone on an abandoned luxury yacht drifting in the ocean during a storm. The yacht is haunted by the ghost of its former captain, who will trap anyone who enters his cabin. To escape, the player must explore the yacht and collect six important items before encountering the ghost. After collecting all six items, the player can escape the haunted yacht and survive.
 
 ## Rooms
 
 Project One requires a minimum of eight rooms.
 
-1. TODO: Start room
-2. TODO: Room
-3. TODO: Room
-4. TODO: Room
-5. TODO: Room
-6. TODO: Room
-7. TODO: Room
-8. TODO: Villain room
+1. Main Deck - Start room
+2. Galley
+3. Engine Room
+4. Guest Cabin
+5. Navigation Room
+6. Storage Room
+7. Lounge
+8. Captain's Cabin - Villain room
 
 Add more rooms if your design needs them.
 
@@ -34,19 +33,19 @@ Add more rooms if your design needs them.
 With the minimum eight-room design, Project One requires at least six items.
 Every room except the start room and villain room must contain one item.
 
-1. TODO: Item
-2. TODO: Item
-3. TODO: Item
-4. TODO: Item
-5. TODO: Item
-6. TODO: Item
+1. Flashlight - Galley
+2. Engine Key - Engine Room
+3. First Aid Kit - Guest Cabin
+4. Navigation Map - Navigation Room
+5. Emergency Flare - Storage Room
+6. Radio - Lounge
 
 If you add rooms beyond the minimum, add an item for every additional room
 except the start room and villain room.
 
 ## Villain
 
-TODO: Identify and briefly describe the villain.
+The Ghost Captain is the villain of the game. He is the angry spirit of the yacht’s former captain who haunts the Captain’s Cabin. If the player enters the Captain’s Cabin before collecting all six items, the Ghost Captain traps the player on the yacht and the player loses the game.
 
 ## Storyboard and Map Check
 
